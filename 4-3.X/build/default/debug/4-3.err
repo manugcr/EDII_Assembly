@@ -1,0 +1,6 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-3.X\4-3.ASM 8 : Found label after column 1. (COUNT)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-3.X\4-3.ASM 9 : Found label after column 1. (LIM)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-3.X\4-3.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-3.X\4-3.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-3.X\4-3.ASM 57 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-3.X\4-3.ASM 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.

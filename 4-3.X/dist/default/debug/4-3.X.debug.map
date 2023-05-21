@@ -1,0 +1,50 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Tue Apr 18 00:24:20 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000005    program   0x000058
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000005    0x000030      
+            47 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                      ADD   0x000019    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                   BANK_0   0x000005    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                   BANK_1   0x000009    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                   BANK_2   0x00000d    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                   BANK_3   0x000011    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                     LOOP   0x00002d    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                  PRESSED   0x000015    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                    SETUP   0x00001e    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                    START   0x00002b    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   BANK_0   0x000005    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                   BANK_1   0x000009    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                   BANK_2   0x00000d    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                   BANK_3   0x000011    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                  PRESSED   0x000015    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                      ADD   0x000019    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                    SETUP   0x00001e    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                    START   0x00002b    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+                     LOOP   0x00002d    program     static C:\Users\Manu\Desktop\Assembler\4-3.X\4-3.asm
+
+

@@ -1,0 +1,5 @@
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-2.X\4-2.ASM 58 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-2.X\4-2.ASM 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-2.X\4-2.ASM 63 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-2.X\4-2.ASM 65 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\4-2.X\4-2.ASM 69 : Found label after column 1. (LOOP)

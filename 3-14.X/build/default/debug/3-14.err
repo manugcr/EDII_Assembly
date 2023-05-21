@@ -1,0 +1,11 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 11 : Found label after column 1. (COUNTER)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 12 : Found label after column 1. (POINTER)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 13 : Found label after column 1. (FIRST_DIR)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 85 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 87 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 89 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 95 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 96 : Using default destination of 1 (file).
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-14.X\3-14.ASM 96 : Register in operand not in bank 0.  Ensure that bank bits are correct.
