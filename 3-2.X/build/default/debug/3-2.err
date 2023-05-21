@@ -1,0 +1,5 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-2.X\3-2.ASM 8 : Found label after column 1. (SUM1)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-2.X\3-2.ASM 9 : Found label after column 1. (SUM2)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-2.X\3-2.ASM 10 : Found label after column 1. (RESL)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-2.X\3-2.ASM 11 : Found label after column 1. (RESH)
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-2.X\3-2.ASM 28 : Using default destination of 1 (file).
