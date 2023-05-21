@@ -1,0 +1,11 @@
+Warning[205] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 190 : Found directive in column 1. (LIST)
+Warning[205] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 191 : Found directive in column 1. (INCLUDE)
+Warning[205] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 199 : Found directive in column 1. (CBLOCK)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 217 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 218 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 220 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 221 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 222 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 226 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 292 : Using default destination of 1 (file).
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\7-3.X\7-3.ASM 329 : Using default destination of 1 (file).

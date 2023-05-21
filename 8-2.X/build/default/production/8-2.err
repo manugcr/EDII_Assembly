@@ -1,0 +1,11 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 14 : Found label after column 1. (T0_OFW1)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 15 : Found label after column 1. (T0_OFW2)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 16 : Found label after column 1. (FLAG)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 17 : Found label after column 1. (W_TEMP)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 18 : Found label after column 1. (STATUS_TEMP)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 65 : Using default destination of 1 (file).
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 71 : Using default destination of 1 (file).
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 83 : Using default destination of 1 (file).
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2.X\8-2.ASM 87 : Using default destination of 1 (file).
