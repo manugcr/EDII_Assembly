@@ -1,0 +1,6 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-9.X\3-9.ASM 10 : Found label after column 1. (ASCII_NUM)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-9.X\3-9.ASM 11 : Found label after column 1. (BCD_HIGH)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-9.X\3-9.ASM 12 : Found label after column 1. (BCD_LOW)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-9.X\3-9.ASM 13 : Found label after column 1. (BCD_PACKED)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-9.X\3-9.ASM 14 : Found label after column 1. (MASK_HIGH)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-9.X\3-9.ASM 15 : Found label after column 1. (MASK_LOW)
