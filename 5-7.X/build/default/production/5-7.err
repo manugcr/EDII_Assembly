@@ -1,0 +1,19 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 15 : Found label after column 1. (D7S_0)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 16 : Found label after column 1. (D7S_1)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 17 : Found label after column 1. (D7S_2)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 18 : Found label after column 1. (D7S_3)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 19 : Found label after column 1. (D7S_4)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 20 : Found label after column 1. (D7S_5)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 21 : Found label after column 1. (D7S_6)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 22 : Found label after column 1. (D7S_7)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 23 : Found label after column 1. (D7S_8)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 24 : Found label after column 1. (D7S_9)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 34 : Found label after column 1. (SETUP)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 66 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 68 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 69 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 72 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 74 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-7.X\5-7.ASM 92 : Using default destination of 1 (file).

@@ -1,0 +1,17 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 23 : Found label after column 1. (V1)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 24 : Found label after column 1. (V2)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 25 : Found label after column 1. (V3)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 42 : Found label after column 1. (CONFIG_)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 51 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 70 : Found label after column 1. (LOOP)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 74 : Found label after column 1. (TOGGLE)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 81 : Found label after column 1. (LMED)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 83 : Found label after column 1. (LINT)
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 85 : Using default destination of 1 (file).
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 87 : Using default destination of 1 (file).
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 89 : Using default destination of 1 (file).
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-5.X\5-5.ASM 95 : Found label after column 1. (RUT_INT)

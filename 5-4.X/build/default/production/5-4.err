@@ -1,0 +1,16 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 16 : Found label after column 1. (AUX)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 17 : Found label after column 1. (CNT1)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 18 : Found label after column 1. (CNT2)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 19 : Found label after column 1. (COUNT)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 54 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 82 : Found label after column 1. (BIT_4)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 86 : Found label after column 1. (BIT_5)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 90 : Found label after column 1. (BIT_6)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 94 : Found label after column 1. (BIT_7)
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 103 : Using default destination of 1 (file).
+Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\5-4.X\5-4.ASM 105 : Using default destination of 1 (file).
