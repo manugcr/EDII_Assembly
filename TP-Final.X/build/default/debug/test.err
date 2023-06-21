@@ -1,0 +1,23 @@
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 26 : Found label after column 1. (W_TEMP)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 27 : Found label after column 1. (S_TEMP)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 28 : Found label after column 1. (ADC_READ)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 29 : Found label after column 1. (TEMP)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 30 : Found label after column 1. (T0_VAL)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 31 : Found label after column 1. (SEC_CNT)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 32 : Found label after column 1. (BUZ_VAL)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 33 : Found label after column 1. (RX_DATA)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 34 : Found label after column 1. (RX_CODE)
+Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 35 : Found label after column 1. (TEMP2)
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 64 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 65 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 67 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 68 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 69 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 70 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 74 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 154 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 167 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 179 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 182 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\TEST.X\TEST.ASM 193 : Register in operand not in bank 0.  Ensure that bank bits are correct.
