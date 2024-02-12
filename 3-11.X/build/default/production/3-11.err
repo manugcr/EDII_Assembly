@@ -1,7 +1,0 @@
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-11.X\3-11.ASM 10 : Found label after column 1. (COUNTER)
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-11.X\3-11.ASM 11 : Found label after column 1. (POINTER1)
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-11.X\3-11.ASM 12 : Found label after column 1. (POINTER2)
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-11.X\3-11.ASM 13 : Found label after column 1. (TEMP)
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-11.X\3-11.ASM 15 : Found label after column 1. (FIRST_DIR)
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-11.X\3-11.ASM 16 : Found label after column 1. (RESULT_DIR)
-Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\3-11.X\3-11.ASM 60 : Using default destination of 1 (file).

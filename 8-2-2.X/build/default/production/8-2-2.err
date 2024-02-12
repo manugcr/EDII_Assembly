@@ -1,9 +1,0 @@
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 14 : Found label after column 1. (RB_FLAG)
-Warning[207] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 15 : Found label after column 1. (TMR0_VAL)
-Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 33 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[305] C:\USERS\MANU\DESKTOP\ASSEMBLER\8-2-2.X\8-2-2.ASM 63 : Using default destination of 1 (file).
